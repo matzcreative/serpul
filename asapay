@@ -1,0 +1,21 @@
+Syarat dan Ketentuan AsaPay:
+1. Izin Membaca Kontak (READ_CONTACTS):
+
+ - Aplikasi ini meminta izin untuk mengakses daftar kontak pada perangkat Anda.
+ - Pengaksesan kontak diperlukan untuk memudahkan proses penginputan nomor yang akan digunakan dalam transaksi.
+ - Informasi kontak yang diakses hanya akan digunakan dalam konteks transaksi dan tidak akan disalahgunakan atau dibagikan tanpa persetujuan Anda.
+ - Kami tidak akan menyimpan data kontak Anda secara permanen dan hanya menggunakan akses ini saat Anda melakukan transaksi atau mengonfirmasi penerima pembayaran.
+
+2. Izin Kamera (CAMERA):
+
+ - Aplikasi ini meminta izin untuk mengakses kamera pada perangkat Anda.
+ - Akses kamera diperlukan untuk melakukan berbagai fungsi, seperti pemindaian barcode untuk mempercepat proses transaksi atau mengunggah gambar terkait transaksi.
+ - Aplikasi tidak akan menggunakan kamera tanpa izin Anda, dan kami menjamin bahwa gambar yang diambil hanya akan digunakan dalam konteks transaksi atau keperluan terkait aplikasi.
+ - Kami tidak akan menyimpan atau membagikan gambar yang dihasilkan tanpa izin Anda, dan privasi Anda adalah prioritas bagi kami.
+
+3. Keamanan dan Perlindungan Data:
+
+ - Kami mengimplementasikan langkah-langkah keamanan yang ketat untuk melindungi data kontak dan gambar yang diakses oleh aplikasi.
+ - Data kontak dan gambar hanya akan disimpan secara sementara dan dihapus setelah pemrosesan atau transaksi selesai.
+ - Tidak ada informasi yang akan disimpan atau dibagikan kepada pihak ketiga tanpa izin eksplisit Anda.
+ - Kami berkomitmen untuk menjaga keamanan dan privasi pengguna, serta mengikuti semua regulasi dan undang-undang yang berlaku terkait dengan perlindungan data.
